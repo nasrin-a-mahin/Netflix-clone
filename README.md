@@ -3,7 +3,7 @@
 ## Screenshots
 
 ### Homepage
-![Homepage](images/netflixclone1.png)
+![Homepage](images/homepage.png)
 
 ### Movie Section
 ![Movie Section](images/netflixclone2.png)
