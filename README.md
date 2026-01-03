@@ -1,2 +1,2 @@
 # Netflix-clone
-🎬 Netflix Clone | Streamlined UI with React, Firebase &amp; Styled Components
+🎬 Netflix Clone | Responsive HTML, CSS, JS & Bootstrap streaming UI
