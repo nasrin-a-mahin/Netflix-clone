@@ -6,4 +6,4 @@
 ![Homepage](images/homepage.png)
 
 ### Movie Section
-![Movie Section](images/netflixclone2.png)
+![Movie Section](images/movies.png)
